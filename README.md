@@ -1,2 +1,2 @@
 # mini_tetris
-Un mini-tetris. Premier projet scolaire en python.
+Un mini-tetris. Une trace de mon premier projet scolaire en python.
